@@ -31,7 +31,7 @@ You can install `pi-agy` globally or per-project using Pi's package manager:
 
 ### Via Git (GitHub)
 ```bash
-pi install git:github.com/pauli/pi-agy
+pi install git:github.com/14NGiestas/pi-agy
 ```
 
 ### Via NPM (once published)
