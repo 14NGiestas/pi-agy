@@ -1,5 +1,5 @@
 {
-  "name": "pi-agy",
+  "name": "@igpauli/pi-agy",
   "version": "0.1.0",
   "description": "Native Google Antigravity (agy CLI) provider and agent runtime bridge for Pi",
   "keywords": [
