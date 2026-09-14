@@ -22,6 +22,11 @@
     "@earendil-works/pi-ai": ">=0.80.0",
     "@earendil-works/pi-tui": ">=0.80.0"
   },
+  "files": [
+    "index.ts",
+    "README.md",
+    "LICENSE"
+  ],
   "engines": {
     "node": ">=22.0.0"
   },
