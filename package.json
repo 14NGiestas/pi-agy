@@ -1,0 +1,29 @@
+{
+  "name": "pi-agy",
+  "version": "0.1.0",
+  "description": "Native Google Antigravity (agy CLI) provider and agent runtime bridge for Pi",
+  "keywords": [
+    "pi-package",
+    "pi-coding-agent",
+    "antigravity",
+    "gemini",
+    "claude",
+    "google-antigravity"
+  ],
+  "type": "module",
+  "main": "./index.ts",
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": ">=0.80.0",
+    "@earendil-works/pi-ai": ">=0.80.0",
+    "@earendil-works/pi-tui": ">=0.80.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "license": "MIT"
+}
